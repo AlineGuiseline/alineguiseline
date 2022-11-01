@@ -1,8 +1,8 @@
 ### Olá! Que prazer ter você por aqui 💜  
 
 <div>
-<img align="right" alt="Aline-pic" height="200" width="200" src="https://lh3.googleusercontent.com/RV4VBBXgBehZ7dq1Wi21bKFSu1LT8P8Gnu18X837gAapq0PKfhu1xzipeGgE9Cvgl-OyOrVzVUEjgC3fKDYVu826STSbbqifVBNXAlnltBn3boaEEZ26SyUuzMSFFo2w9B6dV4I4yftVutEO7OQifTLPU66b2RiFmXBo37_QONtJJb0l7D1Q-z40diBZNu-f5nvXcKrO1P0F5p15Y5aRpXf7Xc39XbrOhAPRnyY0gPD-hHy05cwktzg5rAFASpg81C9hTbf-jXMhyIoXYeadzYmwdlHR8Y2AnucHgadXiUJHvcHjhNj0wrbSEbomxmEh-x6Vv4dwgRWr6dwEiv24JZ-iOigl75b56fjby5Ittx0t3Mj-Rp4gQrXZUGVbF8zlDhbgS42JplBfZtUTQAqLspm06IlCgUXnMYyZtZRYatPaLQRrWH644BZV9WUgIVCKOfLvpWNb_u61t3zLSgqFe2SovsQuoSmPlLjnHtAABaxo8puhPIxz4qv3mjokW8KqAnHLHTmbN8DU2X4BE0yBGKGnsk_TAk6V3DZBaIfNcakE8EU6gc4muqZtP7R3OgTZ1AJ_vw1vEtfMPn4TGSphuy4lFcxG62czHgvBytUC155r5Tk6t3orAOtyx7ntdmPro5YB_T4PrLYZROWIwCaAWiZUVmfk0EaMZUqBNwIDSusX7hYcMay0tjIDUUiYE8Jj-av2FRyXQqoc6BhpcHh590OR_Nt3RZwBcLh-pKvX64rEmW3CBkPHo1S4Vsn91n6lN4_vWlrS6eicSxs-TotmMsP78WsOntx2eaDZw2aYhpP-M0EvYtFzzqmB3tvQAmQXfxIWj84qEB58V1VsSV62HdY-356GY2ReMh_g0WKGb35O8VNDtdHOALPoXtkOhP6Qh8n6_-5JiKGK2zJw17UzindqjDZ7GaFEFxRt0pSATJWLvx4iKA=w509-h490-no?authuser=0">
-  </div>
+<img align="right" alt="Aline-pic" height="200" width="200" src="https://i.imgur.com/Wdiub8S.png">
+</div>
   
 Eu me chamo Aline Guiseline, tenho 24 anos e moro em São Paulo/SP e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de HTML).
 
