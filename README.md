@@ -30,7 +30,6 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 
 #### 📚 No momento eu estou estudando...
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aline-React" src="https://img.icons8.com/officel/40/null/react.png">
  
   
 ##
