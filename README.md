@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#AE82CF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AE82CF&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Que+prazer+ter+você+por+aqui+💜)](https://git.io/typing-svg)
+
 ### Olá! Que prazer ter você por aqui 💜  
 
 <div>
@@ -38,5 +42,9 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineguiseline&layout=compact&langs_count=16&theme=material-palenight"/>
   
 ##
-
-   ![Snake animation](https://github.com/alineguiseline/alineguiseline/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alineguiseline&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE82CF&height=120&section=footer"/>
