@@ -36,13 +36,13 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 ##
  <div>
 <a href="https://github.com/alineguiseline">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=dracula&show_icons=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineguiseline&layout=compact&langs_count=16&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=material-palenight&show_icons=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineguiseline&layout=compact&langs_count=16&theme=material-palenight"/>
   
 ##
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alineguiseline&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alineguiseline&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE82CF&height=120&section=footer"/>
