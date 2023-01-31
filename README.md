@@ -34,8 +34,8 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 ##
  <div>
 <a href="https://github.com/alineguiseline">
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=material-palenight&show_icons=true"/>
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineguiseline&layout=compact&langs_count=16&theme=material-palenight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=material-palenight&show_icons=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineguiseline&layout=compact&langs_count=16&theme=material-palenight"/>
   
 ##
 
