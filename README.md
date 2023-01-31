@@ -33,7 +33,7 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
   
  ##
  
-![Aline's GitHub stats](https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=omni&show_icons=true&card_width=100px)
+![Aline's GitHub stats](https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=omni&show_icons=true&card_width=100px&card_height=100px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineguiseline&layout=compact)](https://github.com/alineguiseline/github-readme-stats)
  
  ##
