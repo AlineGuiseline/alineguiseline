@@ -6,7 +6,7 @@
 <img align="right" alt="Aline-pic" height="200" width="200" src="https://i.imgur.com/Wdiub8S.png">
 </div>
   
-Eu me chamo Aline Guiseline, tenho 24 anos, moro em São Paulo/SP e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de HTML).
+Eu me chamo Aline Guiseline, tenho 25 anos, moro em São Paulo/SP e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de HTML).
 
 Atualmente eu estou participando do bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a>, uma formação de 6 meses focada em Front-End, e, em paralelo, fazendo um curso de Desenvolvimento Full Stack pelo DevClub 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
 
