@@ -31,8 +31,11 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 ##
 
 #### 📚 No momento eu estou estudando...
+<div style="display: inline-block">
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <img align="center" alt="Aline-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+</div>
+
 ##
  <div>
 <a href="https://github.com/alineguiseline">
