@@ -39,20 +39,14 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 ##
 
 #### 📚 No momento eu estou estudando...
-<div style="display: inline-block">
-  <img align="center" alt="Aline-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+<div style="display: inline-block">  
   <img align="center" alt="Aline-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Aline-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Aline-MD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
 </div>
 
 ##
- <div>
-<a href="https://github.com/alineguiseline">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineguiseline&theme=material-palenight&show_icons=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineguiseline&layout=compact&langs_count=16&theme=material-palenight"/>
-  
-##
-  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alineguiseline&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
