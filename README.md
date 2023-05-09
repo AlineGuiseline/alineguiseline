@@ -10,7 +10,7 @@ Eu me chamo Aline Guiseline, tenho 25 anos, moro em São Paulo/SP e, embora seja
 
 Atualmente eu estou participando do bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a>, uma formação de 6 meses focada em Front-End, e, em paralelo, fazendo um curso de Desenvolvimento Full Stack pelo DevClub 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
 
-E quando não estou estudando, estou ouvindo música, assistindo animes ou jogando (jogos de luta ou League of Legends).
+E quando não estou estudando, estou ouvindo música, assistindo animes ou jogando (League of Legends ou jogos de luta).
 
 Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às vezes eu demoro um pouquinho para responder, mas juro que sou legal.
 
