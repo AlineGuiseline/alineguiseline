@@ -44,11 +44,3 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
     <img align="center" alt="Aline-MD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="center" alt="Aline-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 </div>
-
-##
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alineguiseline&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE82CF&height=120&section=footer"/>
