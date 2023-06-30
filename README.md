@@ -8,7 +8,7 @@
   
 Eu me chamo Aline Guiseline, tenho 25 anos, moro em São Paulo/SP e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de HTML).
 
-Sou Desenvolvedora Web pelo bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a> e, atualmente, estou fazendo um curso de Desenvolvimento Full Stack pelo DevClub 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
+Sou Desenvolvedora Front-end pelo bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a> e, atualmente, estou fazendo um curso de Desenvolvimento Full Stack pelo DevClub 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
 
 E quando não estou estudando, estou ouvindo música, assistindo animes ou jogando (League of Legends ou jogos de luta).
 
