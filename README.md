@@ -20,26 +20,10 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
   
 ##
 
-#### 💻 Tecnologias e ferramentas que eu conheço
-<div style="display: inline-block">
-  <img align="center" alt="Aline-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aline-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Aline-Github" height="40" width="40" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png">
-  <img align="center" alt="Aline-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">   
-  <img align="center" alt="Aline-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="Aline-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Aline-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-  <img align="center" alt="Aline-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-   <img align="center" alt="Aline-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  
-</div>
+#### 💻 Tecnologias que eu conheço
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5)](https://skillicons.dev)
+
+#### 🛠️ Ferramentas que eu conheço
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,firebase,figma&perline=5)](https://skillicons.dev)
 
 ##
-
-#### 📚 No momento eu estou estudando...
-<div style="display: inline-block">  
-  <img align="center" alt="Aline-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Aline-Insomnia" height="30" width="40" src="https://user-images.githubusercontent.com/120285942/236062287-09f1bc78-7e35-45bc-b420-17b08bd4f81d.svg">
-</div>
