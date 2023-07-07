@@ -17,9 +17,9 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 ##
 
 #### 💻 Tecnologias que eu conheço
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&perline=4)](https://skillicons.dev)
 
 #### 🛠️ Ferramentas que eu conheço
-[![My Skills](https://skillicons.dev/icons?i=git,github,jest,firebase,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,firebase,figma,nodejs&perline=6)](https://skillicons.dev)
 
 ##
