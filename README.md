@@ -4,9 +4,9 @@
 
 <div><img align="right" alt="Aline-pic" src="https://i.imgur.com/yIVyBnO.png"></div>
 
-Eu me chamo Aline Guiseline, tenho 25 anos, moro em São Paulo/SP e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de HTML).
+Eu me chamo Aline Guiseline, tenho 25 anos, moro em São Paulo/SP e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de uma mistura de HTML com CSS).
 
-Sou Web Developer pelo bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a> e, atualmente, estou fazendo um curso de Desenvolvimento Full Stack pelo DevClub 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
+Sou Web Developer pelo bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a> e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica. 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
 
 E quando não estou estudando, estou ouvindo música (uma confusa playlist que mistura Ghost, BTS, Hatsune Miku e Chico Buarque), assistindo animes (mais alguém aqui é fã de JoJo?) ou jogando (League of Legends ou jogos de luta - spoiler: sou ruim nos dois).
 
@@ -17,6 +17,9 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
   <a href = "mailto:alineguiseline@gmail.com"><img src="https://img.icons8.com/glyph-neue/40/FFFFFF/gmail.png" target="_blank"></a>
   
 ##
+
+#### 📚 O que estou estudando no momento
+[![My Skills](https://skillicons.dev/icons?i=py&perline=1)](https://skillicons.dev)
 
 #### 💻 Tecnologias que eu conheço
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,bootstrap&perline=6)](https://skillicons.dev)
