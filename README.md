@@ -4,7 +4,7 @@
 
 <div><img align="right" alt="Aline-pic" src="https://i.imgur.com/yIVyBnO.png"></div>
 
-Eu me chamo Aline Guiseline, tenho 25 anos e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de uma mistura de HTML com CSS).
+Eu me chamo Aline Guiseline, tenho 26 anos e, embora seja formada em Psicologia, a tecnologia é o que sempre fez os meus olhos brilharem (o meu primeiro contato com linhas de código foi por volta dos 12 anos, em um fórum de RPG para otakus, que eu nem imaginava na época, mas tinha todas as postagens à base de uma mistura de HTML com CSS).
 
 Sou Web Developer pelo bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a> e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica. 💜 Embora ainda esteja no começo desta jornada, estou adorando cada nova descoberta e estou sempre buscando aprender e exercitar cada vez mais.
 
