@@ -19,10 +19,10 @@ Se quiser bater um papinho comigo, pode me chamar nas minhas redes sociais - às
 ##
 
 #### 📚 O que estou estudando no momento
-[![My Skills](https://skillicons.dev/icons?i=ts,java&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts&perline=1)](https://skillicons.dev)
 
 #### 💻 Tecnologias que eu conheço
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,bootstrap&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents&perline=5)](https://skillicons.dev)
 
 #### 🛠️ Ferramentas que eu conheço
 [![My Skills](https://skillicons.dev/icons?i=git,github,jest,firebase,figma,nodejs,postman&perline=7)](https://skillicons.dev)
